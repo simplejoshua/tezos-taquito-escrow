@@ -1,0 +1,23 @@
+.main {
+    margin-left: 40px;
+    margin-right: 40px;
+    height: auto;
+}
+
+.vertical-space {
+    height: 60px;
+}
+
+.exchange {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
